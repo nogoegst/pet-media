@@ -15,7 +15,10 @@
    id="svg14290"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="how.svg">
+   sodipodi:docname="how.svg"
+   inkscape:export-filename="/home/twim/something-to-hide/pet-media/tools/otr/png/otr-how6.png"
+   inkscape:export-xdpi="186.25"
+   inkscape:export-ydpi="186.25">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,15 +27,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.64430958"
-     inkscape:cx="757.45083"
+     inkscape:cx="698.87268"
      inkscape:cy="259.91597"
      inkscape:document-units="px"
-     inkscape:current-layer="layer20"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="857"
+     inkscape:window-width="1280"
+     inkscape:window-height="700"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -26341,7 +26344,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -26352,7 +26355,7 @@
      id="layer1"
      style="display:inline">
     <rect
-       style="fill:none;stroke:#241c1c;stroke-width:4.10787249;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:24.64723382, 24.64723382;stroke-dashoffset:0"
+       style="fill:none;stroke:#808080;stroke-width:4.10787249000000010;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:24.64723382000000029, 24.64723382000000029;stroke-dashoffset:0"
        id="rect4676"
        width="442.37457"
        height="358.37881"
@@ -26625,16 +26628,17 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3636"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-1379.8623,-267.54541)"><flowRegion
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d5d9e2;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-1529.2395,-267.54541)"><flowRegion
          id="flowRegion3638"><rect
            id="rect3640"
            width="417.14285"
            height="94.285713"
            x="80"
-           y="521.79407" /></flowRegion><flowPara
+           y="521.79407"
+           style="text-align:center;text-anchor:middle;fill:#d5d9e2;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3642"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Gill Sans Pro Cyrillic;-inkscape-font-specification:Gill Sans Pro Cyrillic Bold">Алиса</flowPara></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;text-anchor:middle;font-family:P22 Underground CY Pro;-inkscape-font-specification:P22 Underground CY Pro Semi-Bold;fill:#d5d9e2;fill-opacity:1">Алиса</flowPara></flowRoot>    <g
        id="g3497"
        transform="matrix(7.552848,0,0,7.552848,-258.89507,-28.34169)">
       <g
@@ -26751,16 +26755,17 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3636-8"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-226.53655,-257.08343)"><flowRegion
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#d5d9e2;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-397.05467,-257.08343)"><flowRegion
          id="flowRegion3638-9"><rect
            id="rect3640-8"
            width="417.14285"
            height="94.285713"
            x="80"
-           y="521.79407" /></flowRegion><flowPara
+           y="521.79407"
+           style="fill:#d5d9e2;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3642-1"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Gill Sans Pro Cyrillic;-inkscape-font-specification:Gill Sans Pro Cyrillic Bold">Боб</flowPara></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;text-anchor:middle;font-family:P22 Underground CY Pro;-inkscape-font-specification:P22 Underground CY Pro Semi-Bold;fill:#d5d9e2;fill-opacity:1">Боб</flowPara></flowRoot>    <g
        style="display:none"
        inkscape:label="3"
        id="layer8"
@@ -27430,7 +27435,20 @@
         </g>
       </g>
     </g>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3636-3"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d5d9e2;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="translate(-950.62971,-57.66527)"><flowRegion
+         id="flowRegion3638-6"><rect
+           id="rect3640-7"
+           width="417.14285"
+           height="94.285713"
+           x="80"
+           y="521.79407"
+           style="text-align:center;text-anchor:middle;fill:#d5d9e2;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3642-5"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;text-anchor:middle;font-family:P22 Underground CY Pro;-inkscape-font-specification:P22 Underground CY Pro Semi-Bold;fill:#d5d9e2;fill-opacity:1">Ирина</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer21"

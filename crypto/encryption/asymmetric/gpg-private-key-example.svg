@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1575.5312"
+   height="879.20001"
+   id="svg3831"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="gpg-private-key-example.svg"
+   inkscape:export-filename="/home/twim/something-to-hide/pet-media/crypto/signature/gpg-signature-example.png"
+   inkscape:export-xdpi="122.2647"
+   inkscape:export-ydpi="122.2647">
+  <defs
+     id="defs3833" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="684.35554"
+     inkscape:cy="276.23478"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="700"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3836">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(813.64125,-232.15)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3839"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       inkscape:export-filename="/home/twim/something-to-hide/pet-media/crypto/encryption/asymmetric/gpg-private-key-example.png"
+       inkscape:export-xdpi="122.2647"
+       inkscape:export-ydpi="122.2647"><flowRegion
+         id="flowRegion3841"><rect
+           id="rect3843"
+           width="1794.2856"
+           height="1137.1427"
+           x="-814.28571"
+           y="229.50504"
+           ry="0" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#dee2eb;fill-opacity:1;font-family:P22 Underground CY Pro;-inkscape-font-specification:P22 Underground CY Pro"
+         id="flowPara6353">-----BEGIN PGP PRIVATE KEY BLOCK-----</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#dee2eb;fill-opacity:1;font-family:P22 Underground CY Pro;-inkscape-font-specification:P22 Underground CY Pro"
+         id="flowPara6589">lQHYBFfvMhcBBADsoKDQShD5f0ojcT291KuVu+XF/Qdk5sGGoC26In2XYgsaM4+1</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#dee2eb;fill-opacity:1;font-family:P22 Underground CY Pro;-inkscape-font-specification:P22 Underground CY Pro"
+         id="flowPara6591">129/UD5o3h56MVimBkn7IRmyhlvkaaozSZFMMo5SaeZR+9Co9yYy8t+od3yfet73</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#dee2eb;fill-opacity:1;font-family:P22 Underground CY Pro;-inkscape-font-specification:P22 Underground CY Pro"
+         id="flowPara6593">IFK9FCsk5/kCLOXj6IElch4XwuOUT8JGUZnePxz4TAbjQxVNcPwDdF0WHwARAQAB</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#dee2eb;fill-opacity:1;font-family:P22 Underground CY Pro;-inkscape-font-specification:P22 Underground CY Pro"
+         id="flowPara6595">AAP/XlSShzZfmfbCiWqFYH29gU2Mhece4XyUPaTxVbiWNJkjL+jKK4WcrzZACvIx</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#dee2eb;fill-opacity:1;font-family:P22 Underground CY Pro;-inkscape-font-specification:P22 Underground CY Pro"
+         id="flowPara6597">WCj/2/+50mEZq2+ghmgRL6zuPJvP38K7HY+jg5f4S87Rjk1R2rP+P0X775xCN1++</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#dee2eb;fill-opacity:1;font-family:P22 Underground CY Pro;-inkscape-font-specification:P22 Underground CY Pro"
+         id="flowPara6599">v4BvJDmA98+lWEZ9DojUI8x005TMSHPfb05ah94sLWoXjyECAPIRJQRJCM7oFRrb</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#dee2eb;fill-opacity:1;font-family:P22 Underground CY Pro;-inkscape-font-specification:P22 Underground CY Pro"
+         id="flowPara6601">MkTiYBVOHjHB3O+o2KIVqirnV3n4zrfMBSBUnpRcpZ3YxHqI12Hvis9kmNDfoDBj</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#dee2eb;fill-opacity:1;font-family:P22 Underground CY Pro;-inkscape-font-specification:P22 Underground CY Pro"
+         id="flowPara6603">28LLTKkCAPo/VRNbFUs8Edtad5XaCSdoYC/r+p3UG+d5QMojpRojk5Y1xRZ+ZZEC</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#dee2eb;fill-opacity:1;font-family:P22 Underground CY Pro;-inkscape-font-specification:P22 Underground CY Pro"
+         id="flowPara6605">nupThcr9CYNnREqucv6+Z7vSbAbjAYcB/RGSJOjflHQ05o+bNYaU9JeOSZ9AySoo</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#dee2eb;fill-opacity:1;font-family:P22 Underground CY Pro;-inkscape-font-specification:P22 Underground CY Pro"
+         id="flowPara6607">TeKL9b/rpS+czkzL3eyWTm97kM3bce7OeVSTP5LhOkdKHe+/jHm5RE6ni7QLQ3J5</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#dee2eb;fill-opacity:1;font-family:P22 Underground CY Pro;-inkscape-font-specification:P22 Underground CY Pro"
+         id="flowPara6609">cHRvUGFydHmIuAQTAQIAIgUCV+8yFwIbAwYLCQgHAwIGFQgCCQoLBBYCAwECHgEC</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#dee2eb;fill-opacity:1;font-family:P22 Underground CY Pro;-inkscape-font-specification:P22 Underground CY Pro"
+         id="flowPara6611">F4AACgkQjCZUpvXso6z9QAP/VplizuBoRS2eERGSHTmZEgfzFMOc8V0h2/1tOKqt</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#dee2eb;fill-opacity:1;font-family:P22 Underground CY Pro;-inkscape-font-specification:P22 Underground CY Pro"
+         id="flowPara6613">23Ig4udK7Xs/xehS/GOS+XLX80yAQ1LxY5hcr6INe+KRn0yqdGOEz80Ss0jTlqk4</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#dee2eb;fill-opacity:1;font-family:P22 Underground CY Pro;-inkscape-font-specification:P22 Underground CY Pro"
+         id="flowPara6615">nT8mhPD4qzRtSFRx9lJuM04LRVqQ0pjvgcQp99Xd75z+KDUnNQDISQz6zUwD53Rf</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#dee2eb;fill-opacity:1;font-family:P22 Underground CY Pro;-inkscape-font-specification:P22 Underground CY Pro"
+         id="flowPara6617">BnE=</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#dee2eb;fill-opacity:1;font-family:P22 Underground CY Pro;-inkscape-font-specification:P22 Underground CY Pro"
+         id="flowPara6619">=972B</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#dee2eb;fill-opacity:1;font-family:P22 Underground CY Pro;-inkscape-font-specification:P22 Underground CY Pro"
+         id="flowPara6621">-----END PGP PRIVATE KEY BLOCK-----</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#dee2eb;fill-opacity:1;font-family:P22 Underground CY Pro;-inkscape-font-specification:P22 Underground CY Pro"
+         id="flowPara6623" /></flowRoot>  </g>
+</svg>
